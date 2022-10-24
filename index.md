@@ -49,7 +49,7 @@
 <span class="game-title">Push Me pull You</span>
 
 ---
-<!-- .slide: data-background-size="85% 100%" data-background-image="img/maneater.jpg" class="myslide" -->
+<!-- .slide: data-background-size="contain" data-background-image="img/maneater.jpg" class="myslide" -->
 <span class="game-title">Man eater</span>
 
 ---
@@ -69,7 +69,7 @@
 <span class="game-title">Mario Kart</span>
 
 ---
-<!-- .slide: data-background-size="70% 90%" data-background-image="img/cuisine.jfif" class="myslide" -->
+<!-- .slide: data-background-size="contain" data-background-image="img/cuisine.jpg" class="myslide" -->
 <span class="game-title">Overcooked</span>
 
 ---
